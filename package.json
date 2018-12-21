@@ -21,7 +21,9 @@
   },
   "author": "Tim Horton <tim@edgesecure.co>",
   "license": "SEE LICENSE IN LICENSE",
-  "dependencies": {},
+  "dependencies": {
+    "webpack-dev-server": "^3.1.8"
+  },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "edge-libplugin": "https://github.com/EdgeApp/edge-libplugin.git",
